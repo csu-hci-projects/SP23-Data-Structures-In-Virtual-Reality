@@ -27,9 +27,9 @@ public class CreateNode : MonoBehaviour
        Debug.Log("[CREATE NODE]: creating new Prefab");
       Instantiate(myPrefab, new Vector3((float)0.151,(float) 1.104, (float)-0.984), Quaternion.identity);
      }
-     public void showCanvas(){
+     public void toggleCanvas(){
        Debug.Log("[CREATE NODE]: Showing Canvas");
-       canvas.SetActive(true);
+       canvas.SetActive(!canvas.activeSelf);
      }
 
      public void SelectedInput(){

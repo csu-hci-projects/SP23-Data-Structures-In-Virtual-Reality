@@ -1726,7 +1726,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1068441355
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1969,8 +1969,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1197729914}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.19216822, y: 1.0050458, z: -0.73373127}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.19216824, y: 1.0050459, z: -0.73373103}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4244,7 +4244,7 @@ PrefabInstance:
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
       propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: showCanvas
+      value: toggleCanvas
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290318600934, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}

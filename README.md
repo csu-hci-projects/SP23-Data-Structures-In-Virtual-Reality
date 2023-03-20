@@ -15,6 +15,9 @@
 * Show text box
 * made basic scripts
 
+## 3/18 (Claire)
+* created skeleton website for control process
+
 ## 3/19 (James)
 * pushed changes
 * ability to change sences 

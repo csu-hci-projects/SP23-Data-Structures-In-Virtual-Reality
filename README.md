@@ -18,3 +18,7 @@
 ## 3/19 (James)
 * pushed changes
 * ability to change sences 
+
+## 3/20 (James, Claire, Yanye, Seth)
+* whole team met to review progress
+* worked on Checkpoint 1

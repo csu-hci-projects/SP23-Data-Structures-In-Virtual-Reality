@@ -8,3 +8,13 @@
 * debuggd XR Rig (ditch XR Origin)
 * able to grab to sphere 
 * made table unable to move
+
+## 3/13 (James)
+* made button
+* ability to create nodes
+* Show text box
+* made basic scripts
+
+## 3/19 (James)
+* pushed changes
+* ability to change sences 

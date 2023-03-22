@@ -44,3 +44,7 @@
 ### 3/20 (James, Claire, Yanye, Seth)
 * whole team met to review progress
 * worked on Checkpoint 1
+
+### 3/22 (James, Claire, Yanye, Seth)
+* met to review the paper in overleaf
+* finished checkpoint 1

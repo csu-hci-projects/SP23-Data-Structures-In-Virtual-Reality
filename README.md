@@ -14,6 +14,9 @@
 * meeting last 2 hours each
 * additonal meeting added as needed
 
+### Prototype video
+* https://youtu.be/Nw0D6lzn0no
+
 ## Timeline of Progress
 
 ### 3/3 (James, Yanye)

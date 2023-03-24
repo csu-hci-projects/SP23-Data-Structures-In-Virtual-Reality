@@ -48,3 +48,7 @@
 ### 3/22 (James, Claire, Yanye, Seth)
 * met to review the paper in overleaf
 * finished checkpoint 1
+
+### 3/24 (James, Yanye)
+* created start scene where users select the data structure
+* debugged controllers to be oriented correctly and collide with buttons

@@ -13,10 +13,9 @@ public class PhysicsButton : MonoBehaviour
     private ConfigurableJoint _joint;
 
     public UnityEvent onPressed, onReleased;
-    void Start()
-    { _startPos = transform.localPosition;
-    _joint = GetComponent<ConfigurableJoint>();
-
+    void Start() { 
+        _startPos = transform.localPosition;
+        _joint = GetComponent<ConfigurableJoint>();
     }
     void Update() {
         if(!_isPressed && GetValue() + threshold >=1){

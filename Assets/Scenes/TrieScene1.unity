@@ -3365,10 +3365,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "The tree  structure starts off with a root, as a starting access point 
-    \n\nEvery node of Trie consists of multiple branches. Each branch represents
-    a possible character of keys. Mark the last node of every key as the end of the
-    word node. \n\n\nFor Example the Trie to the right containts the following words:\nANT\nADN\nADD"
+  m_text: "The tree structure starts off with a root, as a starting access point.\n\nEvery
+    node of Trie consists of multiple branches. Each branch represents a possible
+    character of keys. Mark the last node of every key as the end of the word node.
+    \n\n\nFor Example the Trie to the right containts the following words:\nANT\nAND\nADD"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

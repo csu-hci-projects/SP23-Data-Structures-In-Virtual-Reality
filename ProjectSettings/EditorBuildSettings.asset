@@ -26,6 +26,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/RedBlack3.unity
     guid: 54c9b05636bf22743a89f85d0edde8c7
+  - enabled: 1
+    path: Assets/Scenes/TriScene2.unity
+    guid: 6e018308b703d124894bee0e7a007984
+  - enabled: 1
+    path: Assets/Scenes/TrieScene2.unity
+    guid: b6351b867340ab2418198a4b6d8d3538
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
       type: 2}

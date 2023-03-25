@@ -4082,18 +4082,28 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
-      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 360266208}
+    - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
+        type: 3}
       propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OnCorrectPressed
+      value: Correct
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
       propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: CorrectButton, Assembly-CSharp
+      value: QuestionButtonPress, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
+        type: 3}
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: A
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290318600934, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
@@ -12534,18 +12544,28 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
-      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 360266208}
+    - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
+        type: 3}
       propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OnIncorrectPressed
+      value: Incorrect
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
       propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: CorrectButton, Assembly-CSharp
+      value: QuestionButtonPress, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
+        type: 3}
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: C
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290318600934, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
@@ -19957,18 +19977,28 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
-      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 360266208}
+    - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
+        type: 3}
       propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: OnIncorrectPressed
+      value: Incorrect
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}
       propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: CorrectButton, Assembly-CSharp
+      value: QuestionButtonPress, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 3447069290031006282, guid: 5c4b76e073f61bc49a42160da5c01278,
+        type: 3}
+      propertyPath: onPressed.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_StringArgument
+      value: B
       objectReference: {fileID: 0}
     - target: {fileID: 3447069290318600934, guid: 5c4b76e073f61bc49a42160da5c01278,
         type: 3}

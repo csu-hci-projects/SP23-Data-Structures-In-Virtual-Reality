@@ -12,6 +12,8 @@ public class ChangeScene : MonoBehaviour
 	}
 	public void Exit()
 	{
-		Application.Quit ();
+		Debug.Log("[CHANGE SCENE]: SHOULD EXIT");
+		Application.Quit();
+		UnityEditor.EditorApplication.isPlaying = false;
 	}
 }

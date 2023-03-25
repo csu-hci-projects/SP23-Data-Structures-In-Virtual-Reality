@@ -52,3 +52,9 @@
 ### 3/24 (James, Yanye)
 * created start scene where users select the data structure
 * debugged controllers to be oriented correctly and collide with buttons
+
+### 3/25 (James, Yanye, Claire)
+* James worked on 4 scenes for Trie
+* Yanye worked on 5 scenes for Red Black Trees
+* Claire worked on creating the quizzes
+* created end scene

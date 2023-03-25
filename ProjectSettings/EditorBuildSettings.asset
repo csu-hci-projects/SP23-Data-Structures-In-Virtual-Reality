@@ -22,13 +22,16 @@ EditorBuildSettings:
     guid: 0f9a59b7c968a7e428f1069793aadbd8
   - enabled: 1
     path: Assets/Scenes/RedBlack2.unity
-    guid: 554d766c74bed52438af6d8cd79dc9ef
+    guid: 8a9824058966df448afd9ece4258c328
   - enabled: 1
     path: Assets/Scenes/RedBlack3.unity
+    guid: 554d766c74bed52438af6d8cd79dc9ef
+  - enabled: 1
+    path: Assets/Scenes/RedBlack4.unity
     guid: 54c9b05636bf22743a89f85d0edde8c7
   - enabled: 1
-    path: Assets/Scenes/TriScene2.unity
-    guid: 6e018308b703d124894bee0e7a007984
+    path: Assets/Scenes/RedBlack5.unity
+    guid: daaaf6af393e56448be7f8dba301c079
   - enabled: 1
     path: Assets/Scenes/TrieScene2.unity
     guid: b6351b867340ab2418198a4b6d8d3538

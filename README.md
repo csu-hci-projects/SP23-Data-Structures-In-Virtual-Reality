@@ -58,3 +58,7 @@
 * Yanye worked on 5 scenes for Red Black Trees
 * Claire worked on creating the quizzes
 * created end scene
+
+### 3/28 (Yanye)
+* updated buttons for Red Black Tree scenes
+* added interative 6th scene for Red Black Tree

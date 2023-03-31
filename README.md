@@ -62,3 +62,7 @@
 ### 3/28 (Yanye)
 * updated buttons for Red Black Tree scenes
 * added interative 6th scene for Red Black Tree
+
+### 3/31 (Yanye, James, Seth)
+* ran through the VR portion of the experiment with Seth to fix any flaws
+* minor edits based on Seth's feedback

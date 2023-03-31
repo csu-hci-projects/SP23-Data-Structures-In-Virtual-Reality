@@ -4414,14 +4414,28 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Red Black Tree is a binary search tree in which every node is colored
-    with either red or black. \n\nRed Black Trees are self-balancing, meaning that
-    the tree adjusts itself automatically after each insertion or deletion operation.
-    It uses a simple but powerful mechanism to maintain balance, by coloring each
-    node in the tree either red or black.\n\nA balanced binary tree is defined as
-    a binary tree in which the height of the left and right subtree of any node differ
-    by not more than one\n\nOn the right is an example of a Red Black Tree\nOn the
-    left is an example of a balanced and unbalanced tree\n"
+  m_text: 'Red Black Tree is a binary search tree in which every node is colored
+    with either red or black. Children to the left are less than the parent and children
+    to the right are greater than the parent.
+
+
+    Red Black Trees are self-balancing,
+    meaning that the tree adjusts itself automatically after each insertion or deletion
+    operation. It uses a simple but powerful mechanism to maintain balance, by coloring
+    each node in the tree either red or black.
+
+
+    A balanced binary tree is defined
+    as a binary tree in which the height of the left and right subtree of any node
+    differ by not more than one
+
+
+    On the right is an example of a Red Black Tree
+
+    On
+    the left is an example of a balanced and unbalanced tree
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

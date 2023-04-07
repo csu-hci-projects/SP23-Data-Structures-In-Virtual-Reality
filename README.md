@@ -66,3 +66,6 @@
 ### 3/31 (Yanye, James, Seth)
 * ran through the VR portion of the experiment with Seth to fix any flaws
 * minor edits based on Seth's feedback
+
+### 4/7 (Yanye, James)
+* carry out experiments with 24 participants

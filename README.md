@@ -1,5 +1,62 @@
 # SP23-Data-Structures-In-Virtual-Reality
 
+## Checkpoint 2
+
+### Future Distribution of Work
+* analysis of results: Seth
+* completion of papers is a group effort
+* edit introduction: Seth
+* edit related works: Claire
+* edit methodology: James
+* record video: Yanye
+
+### Percentage of Work
+* Claire: 25%
+* Yanye: 25%
+* Seth: 25%
+* James: 25%
+ 
+### Meeting Information
+* standing weekly on Wednesdays and Fridays
+* meeting last 2 hours each
+* additonal meeting added as needed
+
+### Prototype video
+* TODO
+
+## Timeline of Progress
+
+### 3/24 (James, Yanye)
+* created start scene where users select the data structure
+* debugged controllers to be oriented correctly and collide with buttons
+
+### 3/25 (James, Yanye, Claire)
+* James worked on 4 scenes for Trie
+* Yanye worked on 5 scenes for Red Black Trees
+* Claire worked on creating the quizzes
+* created end scene
+
+### 3/28 (Yanye)
+* updated buttons for Red Black Tree scenes
+* added interative 6th scene for Red Black Tree
+
+### 3/31 (Yanye, James, Seth)
+* ran through the VR portion of the experiment with Seth to fix any flaws
+* minor edits based on Seth's feedback
+
+### 4/7 (Yanye, James)
+* carry out experiments with 24 participants
+
+### 4/10 (Yanye)
+* finished up the second part of the experiment
+
+### 4/11 (Seth)
+* analyzed/formatted data 
+
+### 4/12 (James, Claire, Seth, Yanye)
+* met to discuss checkpoint 2
+* check in on the analysis from Seth
+
 ## Checkpoint 1
 
 ### Future Distribution of Work
@@ -48,24 +105,3 @@
 ### 3/22 (James, Claire, Yanye, Seth)
 * met to review the paper in overleaf
 * finished checkpoint 1
-
-### 3/24 (James, Yanye)
-* created start scene where users select the data structure
-* debugged controllers to be oriented correctly and collide with buttons
-
-### 3/25 (James, Yanye, Claire)
-* James worked on 4 scenes for Trie
-* Yanye worked on 5 scenes for Red Black Trees
-* Claire worked on creating the quizzes
-* created end scene
-
-### 3/28 (Yanye)
-* updated buttons for Red Black Tree scenes
-* added interative 6th scene for Red Black Tree
-
-### 3/31 (Yanye, James, Seth)
-* ran through the VR portion of the experiment with Seth to fix any flaws
-* minor edits based on Seth's feedback
-
-### 4/7 (Yanye, James)
-* carry out experiments with 24 participants

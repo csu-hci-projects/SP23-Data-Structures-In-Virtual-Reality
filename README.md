@@ -24,6 +24,9 @@
 ### Prototype video
 * https://youtu.be/hxZgQ1hSp3c
 
+### Overleaf link
+* https://www.overleaf.com/read/xpfqryqwqkqh
+
 ## Timeline of Progress
 
 ### 3/24 (James, Yanye)

@@ -22,7 +22,7 @@
 * additonal meeting added as needed
 
 ### Prototype video
-* TODO
+* https://youtu.be/hxZgQ1hSp3c
 
 ## Timeline of Progress
 

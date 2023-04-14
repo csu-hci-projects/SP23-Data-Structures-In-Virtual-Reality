@@ -57,6 +57,11 @@
 * met to discuss checkpoint 2
 * check in on the analysis from Seth
 
+### 4/14 (James, Claire, Seth, Yanye)
+* met to finish checkpoint 2
+* film video and took screenshots of the VR prototype
+* made more edits to paper
+
 ## Checkpoint 1
 
 ### Future Distribution of Work

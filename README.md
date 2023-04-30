@@ -1,5 +1,49 @@
 # SP23-Data-Structures-In-Virtual-Reality
 
+## Final Submission:
+
+Overview Video: 
+Youtube:
+Download:
+
+Code Explination:
+Youtube:
+Download:
+
+Presentation:
+Youtube:
+Download:
+
+Participant Sign up Site: https://sites.google.com/view/464dsivr/home
+
+All Forms: https://drive.google.com/drive/folders/1B4Of4FhNR1sB_EHf296HsDp8QCJm15ZS?usp=sharing
+
+Github Link: https://github.com/csu-hci-projects/SP23-Data-Structures-In-Virtual-Reality
+
+Overleaf Link: https://www.overleaf.com/read/xpfqryqwqkqh
+
+## Distribution of Work:
+
+### Yanye:
+* Protoype Coding 
+* Lead Running Experiments
+
+### Claire: 
+* Made Control 
+* Made Quizes
+* Made consent forms 
+
+
+### James:
+* Protoype Coding 
+* Helper Running Experiments 
+
+
+### Seth:
+* Writing Paper
+* Analizis of Data
+
+
 ## Checkpoint 2
 
 ### Future Distribution of Work

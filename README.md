@@ -27,21 +27,29 @@ Overleaf Link: https://www.overleaf.com/read/xpfqryqwqkqh
 ### Yanye:
 * Protoype Coding 
 * Lead Running Experiments
+* Wrote Presentation slides
+* Writing of Related Works section
+* Final presentation video
 
 ### Claire: 
 * Made Control 
 * Made Quizes
 * Made consent forms 
+* Wrote Presentation slides
+* Writing of Related Works section
+* Final presentation video
 
 
 ### James:
 * Protoype Coding 
 * Helper Running Experiments 
+* Writing of Methodology and Future Works section
+* Final coding video
 
 
 ### Seth:
-* Writing Paper
-* Analizis of Data
+* Writing Introduction, Results, Discussion section
+* Analysis of Data
 
 
 ## Checkpoint 2
